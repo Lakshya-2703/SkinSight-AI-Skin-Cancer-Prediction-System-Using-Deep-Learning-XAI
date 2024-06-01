@@ -23,8 +23,8 @@ To get started with SkinSight AI, follow these steps:
    git clone https://github.com/Lakshya-2703/SkinSight-AI-Skin-Cancer-Prediction-System-Using-Deep-Learning-XAI.git
    cd SkinSight-AI-Skin-Cancer-Prediction-System-Using-Deep-Learning-XAI
 2. Install the required packages:
-   '''bash
+   ```bash
    pip install -r requirements.txt
 3. Run the model:
-   '''bash
+   ```bash
    python run_model.py
